@@ -38,7 +38,7 @@ package.json
 
 ---
 
-🚀 Como Usar
+##🚀 Como Usar
 Insira qualquer CEP no campo input e dê um click na lupa. Logo abaixo o programa irá exibir o endereço do CEP correspondente
 
 
