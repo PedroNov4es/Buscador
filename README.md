@@ -12,6 +12,8 @@ Buscador é meu primeiro projeto com React e meu primeiro projeto utilizando uma
 ---
 
 ## 📂 Estrutura do Projeto
+
+```bash
 /public
   favicon.ico
   index.html
@@ -19,6 +21,7 @@ Buscador é meu primeiro projeto com React e meu primeiro projeto utilizando uma
   logo512.png
   manifest.json
   robots.txt
+
 /src
   /services
     api.js
@@ -26,10 +29,12 @@ Buscador é meu primeiro projeto com React e meu primeiro projeto utilizando uma
   index.css
   index.js
   styles.css
+
 .gitignore
 README.md
 package-lock.json
 package.json
+```
 
 ---
 
