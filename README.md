@@ -41,5 +41,9 @@ package.json
 ## 🚀 Como Usar
 Insira qualquer CEP no campo input e dê um click na lupa. Logo abaixo o programa irá exibir o endereço do CEP correspondente
 
+---
+Acesse: https://buscador-three.vercel.app/
+---
+
 
 
