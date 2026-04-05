@@ -1,4 +1,4 @@
-<h1 align="center">🎓 AcadIA - Chat Acadêmico</h1>
+<h1 align="center">🔍Buscador</h1>
 
 ## 📝 Descrição
 Buscador é meu primeiro projeto com React e meu primeiro projeto utilizando uma API. O projeto consiste em buscar e exibir endereços de acordo com o CEP.
